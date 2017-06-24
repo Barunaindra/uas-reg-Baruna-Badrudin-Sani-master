@@ -11,7 +11,6 @@ Badrudin Hanif - 2014150148 - kelas 2<br>
 
 
 # Install
-
 1. Laravel <br>
 rename .env.example to .env <br>
 composer update / composer install <br>
